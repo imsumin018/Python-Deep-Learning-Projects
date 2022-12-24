@@ -1,4 +1,5 @@
 * 파이썬 딥러닝 프로젝트, Python Depp Learning Projects: Matthew Lamons
+https://static.packt-cdn.com/downloads/9781788997096_ColorImages.pdf
 
 https://github.com/PacktPublishing/Python-Deep-Learning-Projects/
  * 8장, 중첩신경망에 의한 필기 숫자 인식
