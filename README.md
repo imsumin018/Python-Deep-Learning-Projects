@@ -1,3 +1,14 @@
+* 파이썬 딥러닝 프로젝트, Python Depp Learning Projects: Matthew Lamons
+
+https://github.com/PacktPublishing/Python-Deep-Learning-Projects/
+ * 8장, 중첩신경망에 의한 필기 숫자 인식
+ * 9장, 텐서플로에 의한 객체 인식
+ 10장, FaceNet을 사용한 얼굴 인식: 사진에 포함된 얼굴 부위를 식별한 후 해당 부위를 추출하는 모델
+ 11장, 자동 이미지 캡셔닝, 이미지 내용을 문장으로 나타냄
+ 12장, 중첩 신경망에 의한 사람 자세 추정: 케라스 VGG16모델을 사용하여 전이학습을 통해 사람의 자세를 골격형태로 추정한다. 영화의 특수효과를 지원하는 3차원 모델링을 위한 이미지를 생성함
+ 14장, 강화학습에 의한 자율 에이전트
+ 
+
 # Python Deep Learning Projects 
 This is the code repository for [Python Deep Learning Projects](https://www.packtpub.com/big-data-and-business-intelligence/python-deep-learning-projects?utm_source=github&utm_medium=repository&utm_campaign=9781788997096), published by Packt.
 
